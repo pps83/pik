@@ -1,3 +1,16 @@
 [submodule "third_party/brotli"]
 	path = third_party/brotli
 	url = https://github.com/google/brotli.git
+	branch = master
+[submodule "third_party/libpng"]
+	path = third_party/libpng
+	url = ../libpng.git
+	branch = master
+[submodule "third_party/libjpeg-turbo"]
+	path = third_party/libjpeg-turbo
+	url = ../libjpeg-turbo.git
+	branch = master
+[submodule "third_party/zlib"]
+	path = third_party/zlib
+	url = ../zlib.git
+	branch = master
